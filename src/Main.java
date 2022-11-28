@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Estudiante: " + args[0]);
+        System.out.println("Estudiante: " + args[0]); // Estudiante será Carlos Blasco Espada
 
         System.out.println(veredicto(args[2],args[1]));
     }
